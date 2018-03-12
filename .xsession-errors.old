@@ -1,0 +1,123 @@
+/etc/gdm3/Xsession: Beginning session setup...
+stdin: is not a tty
+localuser:root being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-FwHWzo
+GPG_AGENT_INFO=/root/.cache/keyring-FwHWzo/gpg:0:1
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-FwHWzo
+GPG_AGENT_INFO=/root/.cache/keyring-FwHWzo/gpg:0:1
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-FwHWzo
+GPG_AGENT_INFO=/root/.cache/keyring-FwHWzo/gpg:0:1
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-FwHWzo
+GPG_AGENT_INFO=/root/.cache/keyring-FwHWzo/gpg:0:1
+SSH_AUTH_SOCK=/root/.cache/keyring-FwHWzo/ssh
+
+** (gnome-settings-daemon:3959): WARNING **: Failed to connect context: OK
+
+(gnome-settings-daemon:3959): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(gnome-settings-daemon:3959): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-panel:4001): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:4001): WARNING **: Unable to parse mouse modifier '(null)'
+
+glibtop: Non-standard uts for running kernel:
+release 3.14-kali1-486=3.14.0 gives version code 200192
+
+W: [pulseaudio] main.c: This program is not intended to be run as root (unless --system is specified).
+Initializing tracker-miner-fs...
+Tracker-Message: Setting up monitor for changes to config file:'/root/.config/tracker/tracker-miner-fs.cfg'
+Starting log:
+  File:'/root/.local/share/tracker/tracker-miner-fs.log'
+
+** (gnome-user-share:4065): WARNING **: gnome-user-share cannot be started as root for security reasons.
+** Message: applet now removed from the notification area
+Initializing tracker-store...
+Tracker-Message: Setting up monitor for changes to config file:'/root/.config/tracker/tracker-store.cfg'
+Tracker-Message: Setting up monitor for changes to config file:'/root/.config/tracker/tracker-store.cfg'
+Starting log:
+  File:'/root/.local/share/tracker/tracker-store.log'
+
+(tracker-store:4081): Tracker-CRITICAL **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+Initializing nautilus-open-terminal extension
+Initializing nautilus-gdu extension
+
+(gnome-panel:4001): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:4001): WARNING **: Unable to parse mouse modifier '(null)'
+
+
+(gnome-panel:4001): GLib-GObject-WARNING **: /build/buildd-glib2.0_2.33.12+really2.32.4-5-i386-eISom6/glib2.0-2.33.12+really2.32.4/./gobject/gsignal.c:2459: signal `size_request' is invalid for instance `0x89bd978'
+** Message: applet now embedded in the notification area
+
+(tracker-miner-fs:4031): Tracker-WARNING **: Couldn't properly parse desktop file 'file:///usr/share/desktop-directories/02-07-nessus.directory': 'Couldn't load desktop file:'/usr/share/desktop-directories/02-07-nessus.directory''
+
+(gnome-settings-daemon:3959): PackageKit-WARNING **: couldn't parse execption 'GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_5ftransaction_5ferror.Code4: GetDistroUpgrades not supported by backend', please report
+
+(gnome-settings-daemon:3959): updates-plugin-WARNING **: failed to get upgrades: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_5ftransaction_5ferror.Code4: GetDistroUpgrades not supported by backend
+
+(gnome-settings-daemon:3959): PackageKit-WARNING **: couldn't parse execption 'GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_5ftransaction_5ferror.Code4: GetDistroUpgrades not supported by backend', please report
+
+(gnome-settings-daemon:3959): updates-plugin-WARNING **: failed to get upgrades: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._pk_5ftransaction_5ferror.Code4: GetDistroUpgrades not supported by backend
+** Message: applet now removed from the notification area
+** Message: NM disappeared
+x-session-manager[3890]: Gdk-WARNING: x-session-manager: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-settings-daemon:3959): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.
+
+(polkit-gnome-authentication-agent-1:4027): Gdk-WARNING **: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(notification-daemon:4030): Gdk-WARNING **: notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gdu-notification-daemon:4028): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-fallback-mount-helper:4042): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:4036): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(bluetooth-applet:4055): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-sound-applet:4082): Gdk-WARNING **: gnome-sound-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-terminal:4287): Gdk-WARNING **: gnome-terminal: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+
+(nautilus:4077): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-panel:4001): Gdk-WARNING **: gnome-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:4044): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+(tracker-miner-fs:4031): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.11 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(tracker-miner-fs:4031): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.12 of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(tracker-miner-fs:4031): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.13 of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+Received signal:15->'Terminated'
+
+(tracker-miner-fs:4031): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:4031): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:4031): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+OK
+
